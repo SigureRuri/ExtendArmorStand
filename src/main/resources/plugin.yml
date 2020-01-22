@@ -1,0 +1,5 @@
+name: ExtendedArmorStand
+version: @version@
+main: com.github.sigureruri.extendedarmorstand.ExtendedArmorStand
+api-version: 1.13
+authors: [SigureRuri]
